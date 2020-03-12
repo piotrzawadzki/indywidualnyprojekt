@@ -16,4 +16,4 @@ Planowane funkcje:
 - Naliczanie punktów
 - Dźwięki i muzyka
 - Informacja o sterowaniu
-- Możliwość powrótu do menu z poziomu gry
+- Możliwość powrotu do menu z poziomu gry
