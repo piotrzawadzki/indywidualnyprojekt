@@ -25,7 +25,7 @@ Z Planowanych funkcji udało się zrealizować wszystkie.
 
 ### Nieplanowane funkcje:
 - Różna muzyka w menu i w trakcie gry
-- specjalne menu do wyboru grafiki piłki i paletek
+- Specjalne menu do wyboru grafiki piłki i paletek
 - Po zdobyciu odpowiedniej ilości punktów informacja o wygranej
 - Po wygranej automatyczny reset punktów
 - Po powrocie do menu w trakcie gry, wracamy do gry w momencie w którym skończyliśmy, więc można w trakcie gry np. zmienić wygląd paletek bądź piłeczki
