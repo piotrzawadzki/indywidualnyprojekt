@@ -1,3 +1,5 @@
+# Raport 1
+
 # Przedmiot: Indywidualny projekt programistyczny
 ## Tytuł: Pong War
 
