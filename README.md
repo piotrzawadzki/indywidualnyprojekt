@@ -32,7 +32,8 @@ Z Planowanych funkcji udało się zrealizować wszystkie.
 - Muzyka, dźwięki i grafiki są moje własne (nie zajmowałem się nigdy robieniem takich rzeczy dlatego nie są perfekcyjne)
 ________________________________________________________________________________________________________________________________________
 # Raport 3
-W sumie projekt już był gotow, więc niewiele się zmieniło.
+W sumie projekt już był gotowy, więc niewiele się zmieniło.
+Nie chcę też na siłę dodawać zbędnych funkcji, czy dodatków, żeby nie zrobić z prostej gry czegoś nieczytelnego bądź skomplikowanego.
 
 ### Dodatki:
 - Za sugestią zmiana koloru tła na ciemnoszary, faktycznie lepiej się na to patrzy
