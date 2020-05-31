@@ -34,6 +34,7 @@ ________________________________________________________________________________
 # Raport 3
 W sumie projekt już był gotowy, więc niewiele się zmieniło.
 Nie chcę też na siłę dodawać zbędnych funkcji, czy dodatków, żeby nie zrobić z prostej gry czegoś nieczytelnego bądź skomplikowanego.
+I dopowiadając to czego nie pamiętałem w danym momencie, piłeczka po wyjściu poza ekran wraca z powrotem na pozycję startową czyli środek mapy czekając na wprowadzenie ją w ruch czyli wciśnięcie spacji.
 
 ### Dodatki:
 - Za sugestią zmiana koloru tła na ciemnoszary, faktycznie lepiej się na to patrzy
