@@ -30,3 +30,10 @@ Z Planowanych funkcji udało się zrealizować wszystkie.
 - Po wygranej automatyczny reset punktów
 - Po powrocie do menu w trakcie gry, wracamy do gry w momencie w którym skończyliśmy, więc można w trakcie gry np. zmienić wygląd paletek bądź piłeczki
 - Muzyka, dźwięki i grafiki są moje własne (nie zajmowałem się nigdy robieniem takich rzeczy dlatego nie są perfekcyjne)
+________________________________________________________________________________________________________________________________________
+# Raport 3
+W sumie projekt już był gotow, więc niewiele się zmieniło.
+
+### Dodatki:
+- Za sugestią zmiana koloru tła na ciemnoszary, faktycznie lepiej się na to patrzy
+- Dodanie przycisku "reset punktów" pozwalającego na wyzerowanie liczby punktów w bieżącej rozgrywce
